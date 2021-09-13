@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class Main {
 
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
-        UserDao dao = new UserDao();
+        /**UserDao dao = new UserDao();
 
         User user = new User();
         user.setId("siwon");
@@ -23,6 +23,6 @@ public class Main {
 
         System.out.println(user2.getPassword());
 
-        System.out.println(user2.getId() + "조회 성공");
+        System.out.println(user2.getId() + "조회 성공");*/
     }
 }
